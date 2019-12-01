@@ -1,3 +1,11 @@
+# 我的排除
+*.pyc
+*.lock
+*.map
+.*
+logmsg.md
+__pycache__
+
 # Logs
 logs
 *.log
@@ -59,3 +67,5 @@ typings/
 
 # next.js build output
 .next
+/NodeJS/Typescript/hello_typescript/js/*.js
+/NodeJS/Typescript/hello_typescript/js/*.map
