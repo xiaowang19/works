@@ -1,18 +1,11 @@
-<<<<<<< HEAD
 # ÎÒµÄÅÅ³ý
-=======
-# æˆ‘çš„æŽ’é™¤
->>>>>>> a11502c948863c0a5ac87a154eb8e9ebb7cf32dd
 *.pyc
 *.lock
 *.map
 .*
 logmsg.md
 __pycache__
-<<<<<<< HEAD
 *.stackdump
-=======
->>>>>>> a11502c948863c0a5ac87a154eb8e9ebb7cf32dd
 
 # Logs
 logs
@@ -75,7 +68,7 @@ typings/
 
 # next.js build output
 .next
-<<<<<<< HEAD
+
 # compile js
 NodeJS/Typescript/hello_typescript/js/**/*.js
 NodeJS/Typescript/hello_typescript/js/**/*.map
@@ -85,7 +78,7 @@ NodeJS/Electron/ele/public/javascripts/**/*.map
 
 NodeJS/Electron/ele-ts/public/javascripts/**/*.js
 NodeJS/Electron/ele-ts/public/javascripts/**/*.map
-=======
+
 /NodeJS/Typescript/hello_typescript/js/*.js
 /NodeJS/Typescript/hello_typescript/js/*.map
->>>>>>> a11502c948863c0a5ac87a154eb8e9ebb7cf32dd
+
