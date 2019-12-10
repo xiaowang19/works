@@ -1,3 +1,12 @@
+# ÎÒµÄÅÅ³ý
+*.pyc
+*.lock
+*.map
+.*
+logmsg.md
+__pycache__
+*.stackdump
+
 # Logs
 logs
 *.log
@@ -59,3 +68,12 @@ typings/
 
 # next.js build output
 .next
+# compile js
+NodeJS/Typescript/hello_typescript/js/**/*.js
+NodeJS/Typescript/hello_typescript/js/**/*.map
+
+NodeJS/Electron/ele/public/javascripts/**/*.js
+NodeJS/Electron/ele/public/javascripts/**/*.map
+
+NodeJS/Electron/ele-ts/public/javascripts/**/*.js
+NodeJS/Electron/ele-ts/public/javascripts/**/*.map
